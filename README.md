@@ -36,7 +36,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Note: This is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
@@ -46,9 +46,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 **To run the project locally:
 -Git clone the repo url
--Open the project in the vscode or any code editor
--In the terminal or cmd type npm install
+-Open the project in vscode or any code editor
+-In the terminal or cmd, type npm install
 -Open a terminal type npx json-server --watch db.json --port 3001 for the json server to run for the mock api's
--Open another terminal type npm start for the react app to run.
+-Open another terminal and  type npm start for the react app to run.
 -Open http://localhost:3000 to view it in your browser.
 
